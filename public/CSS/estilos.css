@@ -1,0 +1,31 @@
+.bg-purple{
+    background: #282E7A;
+}
+.bg-whitesmoke{
+    background: whitesmoke;
+}
+.bg-rojo{
+    background: red;
+}
+.text-negro{
+    color: black;
+}
+footer p a{ color: white; 
+    text-decoration: none;
+}
+footer p{color: white;
+}
+footer h3{ text-align: center; 
+color: #C7A31A; 
+}
+footer p a:hover{color: #C7A31A;
+}
+div a{
+    text-decoration: none;
+}
+div h3{
+    text-transform: uppercase;
+}
+a:hover{
+    color: red;
+}
